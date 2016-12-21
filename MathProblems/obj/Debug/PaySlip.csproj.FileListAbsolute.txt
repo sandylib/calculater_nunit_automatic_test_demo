@@ -1,0 +1,14 @@
+C:\Projects\tests\MathProblems\MathProblems\bin\Debug\PaySlip.exe.config
+C:\Projects\tests\MathProblems\MathProblems\bin\Debug\PaySlip.exe
+C:\Projects\tests\MathProblems\MathProblems\bin\Debug\PaySlip.pdb
+C:\Projects\tests\MathProblems\MathProblems\obj\Debug\PaySlip.exe
+C:\Projects\tests\MathProblems\MathProblems\obj\Debug\PaySlip.pdb
+C:\Projects\tests\PaySlipDemo\MathProblems\bin\Debug\PaySlip.exe.config
+C:\Projects\tests\PaySlipDemo\MathProblems\obj\Debug\PaySlip.exe
+C:\Projects\tests\PaySlipDemo\MathProblems\obj\Debug\PaySlip.pdb
+C:\Projects\tests\PaySlipDemo\MathProblems\bin\Debug\PaySlip.exe
+C:\Projects\tests\PaySlipDemo\MathProblems\bin\Debug\PaySlip.pdb
+C:\Projects\tests\PaySlipDemo\MathProblems\obj\Debug\PaySlip.csprojResolveAssemblyReference.cache
+C:\Users\sandyz\PaySlipDemo\MathProblems\bin\Debug\PaySlip.exe.config
+C:\Users\sandyz\PaySlipDemo\MathProblems\obj\Debug\PaySlip.exe
+C:\Users\sandyz\PaySlipDemo\MathProblems\obj\Debug\PaySlip.pdb
