@@ -82,28 +82,3 @@ David Rudd,01 March - 31 March,5004,922,4082,450
 Ryan Chen,01 March - 31 March,10000,2696,7304,1000  
 
 
-```
-   const rawUnsetted = this.props.unsetted;
-    const customershistory = this.props.setted;
-   
-    const customers = [];
-    let count = 0;
-    _.each(rawUnsetted, function(customer){
-         
-          let obj = Object.assign({},customer);
-          obj.id = count++;
-          obj.riskLevelA = Math.round( obj.toWin / obj.stake * 100) > 60;
-           let found = _.find(customershistory, function(o) { return o.id === customer.id; });
-          if(found){
-            obj.riskLevelB =  Math.round(obj.stake / found.averageBet) > 10;
-            obj.riskLevelC =  Math.round(obj.stake / found.averageBet) > 30;
-          }
-          else{
-           obj.riskLevelB = false;
-          }
-
-          obj.riskLevelD = obj.toWin > 1000;
-        
-        customers.push(obj);
-
-```
